@@ -1,0 +1,6 @@
+Desenvolvido e incluido as seguintes funcionalidades no na conexão jdbc:
+- Implemente pelo menos três relatórios com as informações contidas em banco de dados.
+- Um dos relatórios deverá ter parâmetro para consulta SQL.
+- Pelo menos um dos relatórios deverá usar agrupamento de dados e variável de relatório.
+- Integre a chamada da visualização dos relatórios em sua aplicação desktop (java).
+- Separe a implementação do controle da interface gráfica (não programe funcionalidades na interface gráfica), na qual deve ter somente a entrada de dados e as chamadas de métodos.
